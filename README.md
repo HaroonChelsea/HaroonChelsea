@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haroonchelsea&label=Profile%20views&color=0e75b6&style=flat" alt="haroonchelsea" /> </p>
 
+[![wakatime](https://wakatime.com/badge/user/26b12928-7026-439f-89cf-56a55c18da7b.svg)](https://wakatime.com/@26b12928-7026-439f-89cf-56a55c18da7b)
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haroonchelsea" alt="haroonchelsea" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
