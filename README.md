@@ -16,3 +16,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haroonchelsea&show_icons=true&locale=en" alt="haroonchelsea" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haroonchelsea&" alt="haroonchelsea" /></p>
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/HaroonChelsea?pet-id=655397380138067956"
+    width="600"
+    height="120"
+  />
+</a>
+  
